@@ -2,7 +2,6 @@
 - 🔭 I’m currently workin at InflightIT
 - 📫 How to reach me: [Twitter](https://twitter.com/nunofernandesO8) | [Linkedin](https://www.linkedin.com/in/nunofernandesO8/) | [Gitlab](https://gitlab.com/nunofernandesO8)
 - ⚡ Fun fact: I'm a motorcycle enthusiast.
-- 📖 [Curriculum](https://pdfhost.io/v/NGqiKIouw_Europass.pdf)
 
 ### GitHub Stats and Activity 🕵️‍♂️
 <div style="dispaly: flex">
